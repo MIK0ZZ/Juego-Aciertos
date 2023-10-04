@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class App {
+public class Juego {
     public static void main(String[] args) throws Exception {
 
         /*  Para borrar la consola
